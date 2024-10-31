@@ -2,7 +2,7 @@
 a computational pipeline for typing the *Borrelia* OspA protein
 
 LISTT assigns *in-silico* types based on sequence of the OspA protein. Illumina NGS reads of a *Borrelia* isolate or its genome sequence can be provided as input.
-23 *in-silico* types (ISTs) can currently be assigned, with ISTs 1-8 corresponding to the canonical OspA serotypes 1-8: 
+25 *in-silico* types (ISTs) can currently be assigned, with ISTs 1-8 corresponding to the canonical OspA serotypes 1-8: 
 
 | Genospecies  | OspA *in-silico* type |
 | ------------- | ------------- |
