@@ -12,14 +12,16 @@ LISTT assigns *in-silico* types based on sequence of the OspA protein. Illumina 
 | *B. bavariensis* | 4, 9, 10 |
 | *B. spielmanii* | 13|
 | *B. mayonii* | 14 |
-| *B. valaisiana* | 15, 25 |
-| *B. turdi* | 16, 24 |
+| *B. valaisiana* | 15, 16 |
+| *B. turdi* | 16, 22 |
 | *B. yangtzensis* | 17 |
 | *B. americana* | 18 |
 | *B. bissettiae* | 19 |
-| *B. carolinensis* | 20 |
-| *B. finlandensis* | 21 |
-| *B. japonica* | 22 |
+| *B. carolinensis* | 19 |
+| *B. kurtenbachii* | 19 |
+| *B. finlandensis* | 14 |
+| *B. japonica* | 20 |
+| *B. tanukii* | 21 |
 | *B. lusitaniae* | 23 |
 
 
